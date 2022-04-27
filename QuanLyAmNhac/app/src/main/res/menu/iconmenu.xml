@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/nav_baihat"
+        android:icon="@drawable/music"
+        android:title="Danh mục bài hát" />
+
+    <item
+        android:id="@+id/nav_bieudien"
+        android:icon="@drawable/microphone"
+        android:title="Danh mục ca sĩ biểu diễn" />
+
+    <item
+        android:id="@+id/nav_nhacsi"
+        android:icon="@drawable/musician"
+        android:title="Danh mục nhạc sĩ" />
+    <item
+        android:id="@+id/nav_casi"
+        android:icon="@drawable/microphone"
+        android:title="Danh mục ca sĩ" />
+
+    <item
+        android:id="@+id/nav_thongke"
+        android:icon="@drawable/tools"
+        android:title="Thống kê" />
+
+    <item
+        android:id="@+id/nav_baocao"
+        android:icon="@drawable/printing"
+        android:title="In báo cáo" />
+
+</menu>

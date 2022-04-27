@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:orientation="horizontal"
+    android:layout_width="match_parent"
+    android:background="@color/primary"
+    android:gravity="center"
+    android:clickable="true"
+    android:longClickable="true"
+    android:layout_height="wrap_content">
+
+
+    <TextView
+        android:id="@+id/tv_id"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:background="@drawable/border_table"
+        android:padding="5dp"
+        android:text="12"
+        android:textSize="12dp" />
+    <TextView
+
+        android:id="@+id/tv_name"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_toStartOf="@+id/img_drop"
+        android:background="@drawable/border_table"
+        android:padding="15dp"
+        android:text="ssssssssssssssssssssssss"
+        android:textSize="12dp" />
+
+    <ImageView
+        android:id="@+id/img_drop"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+     android:layout_centerVertical="true"
+        android:layout_alignParentEnd="true"
+        android:background="@drawable/border_table"
+        app:srcCompat="@android:drawable/btn_dropdown" />
+
+
+</RelativeLayout>

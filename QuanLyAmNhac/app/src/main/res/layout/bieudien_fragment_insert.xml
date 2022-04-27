@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="@color/primary">
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Thêm thông tin biểu diễn của ca sĩ"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <Spinner
+            android:id="@+id/insert_macs"
+            android:layout_width="100dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/border_radius"
+            android:paddingLeft="20dp"
+            android:layout_margin="5dp"/>
+        <EditText
+            android:id="@+id/insert_tencs"
+            android:layout_width="200dp"
+            android:layout_height="50dp"
+            android:layout_gravity="center"
+            android:background="@drawable/border_radius"
+            android:paddingLeft="20dp"
+            android:editable="false"
+            android:layout_margin="5dp"
+            android:hint="tên ca sĩ"/>
+    </LinearLayout>
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+    <Spinner
+        android:id="@+id/insert_mabh"
+        android:layout_width="100dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_radius"
+        android:paddingLeft="20dp"
+        android:layout_margin="5dp"/>
+    <EditText
+        android:id="@+id/insert_tenbh"
+        android:layout_width="200dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_radius"
+        android:paddingLeft="20dp"
+        android:editable="false"
+        android:layout_margin="5dp"
+        android:hint="tên bài hát"/>
+    </LinearLayout>
+
+    <EditText
+        android:id="@+id/insert_ngaybd"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_radius"
+        android:paddingLeft="20dp"
+        android:inputType="date"
+        android:hint="ngày biễu diễn"/>
+
+    <EditText
+        android:id="@+id/insert_diadiem"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_margin="20dp"
+        android:layout_gravity="center"
+        android:background="@drawable/border_radius"
+        android:paddingLeft="20dp"
+        android:hint="địa điểm"/>
+
+
+    <android.widget.Button
+        android:id="@+id/insert_thongtin"
+        android:layout_width="100dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/border_radius"
+        android:text="Thêm"/>
+</LinearLayout>

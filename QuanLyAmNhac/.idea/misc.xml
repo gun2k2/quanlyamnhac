@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/drawable-v24/border_radius.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/drawable-v24/border_table.xml" value="0.37864583333333335" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/drawable-v24/border_th_table.xml" value="0.3148148148148148" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/activity_bai_hat.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/activity_bieu_dien.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/activity_ca_si.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/activity_main.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/baihat_fragment.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/baihat_fragment_insert.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/baihat_fragment_update.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/baihat_item_list_view.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_dialog_confirm_delete.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_dialog_edit.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_dialog_select.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_fragment.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_fragment_home.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_fragment_insert.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/bieudien_item_list_view.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/casi_fragment.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/casi_fragment_update.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/casi_item_list_view.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/content_main.xml" value="0.3625" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/fragment_ca_si.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/fragment_ca_si_insert.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/nhacsi_fragment.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/nhacsi_fragment_insert.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/nhacsi_fragment_update.xml" value="0.3546875" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/nhacsi_item_list_view.xml" value="0.3578125" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/layout/nhacsi_item_select.xml" value="0.33" />
+        <entry key="..\:/Users/admin/AndroidStudioProjects/QuanLyAmNhac/app/src/main/res/menu/iconmenu.xml" value="0.3625" />
+        <entry key="..\:/Users/admin/AppData/Local/Android/Sdk/platforms/android-30/data/res/layout/simple_spinner_item.xml" value="0.5" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_1_8" default="true" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.33645833333333336" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

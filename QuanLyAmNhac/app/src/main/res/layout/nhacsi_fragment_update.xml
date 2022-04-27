@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_gravity="center"
+    android:background="@color/primary"
+    android:gravity="center"
+    android:orientation="vertical"
+  >
+
+    <TextView
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        android:gravity="center"
+        android:text="Thay đổi Nhạc Sĩ"
+        android:textSize="25dp"
+        android:textStyle="bold" />
+
+    <EditText
+        android:id="@+id/editma"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/border_radius"
+
+
+        android:enabled="false"
+        android:hint="Mã nhạc sĩ"
+        android:paddingLeft="20dp" />
+
+    <EditText
+        android:id="@+id/editname"
+        android:layout_width="250dp"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:layout_margin="20dp"
+        android:background="@drawable/border_radius"
+
+        android:hint="Tên nhạc sĩ"
+        android:paddingLeft="20dp" />
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content">
+
+        <android.widget.Button
+            android:id="@+id/btnBacKNS"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:background="@drawable/border_radius"
+            android:text="Trở lại " />
+
+        <android.widget.Button
+            android:id="@+id/btnUpdateNS"
+            android:layout_width="100dp"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:layout_margin="20dp"
+            android:background="@drawable/border_radius"
+            android:text="Chỉnh sửa" />
+    </LinearLayout>
+
+
+</LinearLayout>
